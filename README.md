@@ -73,4 +73,4 @@ Before you start writing a formal GSP, you should discuss an idea in the various
 
 ## Help
 
-* [GitHub Discussions](https://github.com/geoid-org/standard-proposal/discussions)
+* [GitHub Discussions](https://github.com/geoid-org/geoid-standard-proposals/discussions)
